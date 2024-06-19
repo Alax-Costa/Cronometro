@@ -1,0 +1,19 @@
+div{
+    text-align: center; 
+}
+body{
+    background-color: rgba(4, 63, 63, 0.911);
+}
+button{
+    height:3em;
+    width: 8em; ;
+    color:yellow;
+    background-color:black ;
+ }
+ button:hover{
+    background-color:rgb(68, 67, 67) ;
+    cursor:pointer;
+ }
+ h1{
+    color: yellow;
+ }
